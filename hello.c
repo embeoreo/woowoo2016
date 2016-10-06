@@ -1,8 +1,12 @@
-#include<stdio.h>
+#include"hello.h"
 
 void foo1()
 {
-	printf("class_6\n");
-	return;
+	
+}
 
+int main()
+{
+	printf("good class_6\n");
+	return 0;
 }
