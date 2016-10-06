@@ -5,6 +5,11 @@ void foo1()
 	printf("2rd\n");
 	printf("3rd\n");
 	printf("+github\n");
+<<<<<<< HEAD
+	printf("Test_new git \n");
+=======
+	printf("Test_old \n");
+>>>>>>> 2aa00df54ba0c7ece3f028fdc4e569092815e26e
 }
 
 int main()
