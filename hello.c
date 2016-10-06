@@ -5,6 +5,7 @@ void foo1()
 	printf("2rd\n");
 	printf("3rd\n");
 	printf("+github\n");
+	printf("Test_old \n");
 }
 
 int main()
