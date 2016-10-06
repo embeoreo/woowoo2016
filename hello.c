@@ -2,7 +2,7 @@
 
 void foo1()
 {
-	
+	printf("2rd\n");
 }
 
 int main()
